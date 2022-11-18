@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: c725b0cfae1d5438ea9a2319dd8de00d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 294
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f643e1d4a8a45898e8cc4dad86ddfe
+      internalID: 13891497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 294
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6a26de21e6048bb97781e20e2c7051
+      internalID: 226135075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 294
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2c04b62dee04dcfb280b1ecba02f8d
+      internalID: 1683084997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 294
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4532e9db1ea4f97a503fa3bc1ab955
+      internalID: -1970127582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 197
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322a5a4acd3b9463cb2286fb62676d17
+      internalID: 107521825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 197
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c6c9f7821614c248541c43d5145523
+      internalID: -1214183566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 197
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd03e58cacd44039ad32197c3db84a3
+      internalID: -962299183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 197
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebadfbcfa2ab34cef92a23de8dadee0b
+      internalID: -1106824449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e54f5697839b46cfac42f1fcb89a2b8
+      internalID: 1030860160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 99
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a1feb3e16d4566bcbb50f9c3b6fc5
+      internalID: 749277733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 98
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105e79b0991e4268b6e805523647463
+      internalID: 2146658262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 44
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fb0c4a1de7d4fada52bd8334f0bc89
+      internalID: -1972887073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 98
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28eb4012d31143b687c9a2909d27075
+      internalID: -1111520594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 98
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfc3d0aaf90346e19d78bf6177436e5
+      internalID: 405835243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 44
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4ad9baf95347c7aa9910c08bf1b1b
+      internalID: -235971941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 45
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad26a2257a27040498219daa5d8c5e25
+      internalID: -1827907059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a25af7515774ed7855a86cd4c3366a
+      internalID: -1425878732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b845c8b469b945b0859131d35d10f81
+      internalID: 213442707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c35a992b7945668e91091a76bdcde
+      internalID: -1051921402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434909c15592d4674adb75cae30e496f
+      internalID: -39543301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_3: -1970127582
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_10: 2146658262
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_18: -1051921402
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_5: -1214183566
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_7: -1106824449
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_2: 1683084997
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_0: 13891497
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_1: 226135075
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_14: -235971941
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_11: -1972887073
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_19: -39543301
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_4: 107521825
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_8: 1030860160
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_13: 405835243
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_6: -962299183
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_16: -1425878732
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_17: 213442707
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_15: -1827907059
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_9: 749277733
+      PC Computer - Cherry Tree High Comedy Club - Octavia Richmond_12: -1111520594
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

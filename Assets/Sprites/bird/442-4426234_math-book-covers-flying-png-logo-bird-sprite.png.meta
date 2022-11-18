@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 82dc7f102c4174bd18fdd58c6d227fd0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 146
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a04c165b70114ebd9facf31d2d0eea1
+      internalID: 413846859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 357
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679bf36967624b0a8b12101c07b54b5
+      internalID: 531866478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 358
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e43272e278f4d0ab0c54e32624a1cf
+      internalID: 1335920703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 361
+        width: 171
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a37a65d18e4637a1790db89ca8ad9
+      internalID: -1862550481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 364
+        width: 182
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb55cfa955e4bffa0589c2e97211e4
+      internalID: 1430133043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ae3f9bf7824a45b9d4537a91e3b97
+      internalID: 1845063263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 160
+        width: 146
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0b7de23ffa340f793830e19deda1fe
+      internalID: 1933013735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 164
+        width: 146
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8518fcc7d0eb34c0e92a1d6d5e02fd6a
+      internalID: -465985466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 174
+        width: 146
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52780eb99613d4e0e8b7c35865892d7b
+      internalID: 1940364024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 171
+        width: 146
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba093bfe074e3432590233e98e3af495
+      internalID: -993792794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 146
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a076d5e033a49a3ac4306085ee8114
+      internalID: 1065043592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 146
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bead0c8cafb45fe8898823af0c8ae9
+      internalID: 123627810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 17
+        width: 168
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bee9bead3f8a490b975cd478f08a700
+      internalID: 2056416127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 442-4426234_math-book-covers-flying-png-logo-bird-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 16
+        width: 180
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3a5a1fd8952471e8893705475b3c0c
+      internalID: -1948403756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_9: -993792794
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_3: -1862550481
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_11: 123627810
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_2: 1335920703
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_0: 413846859
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_12: 2056416127
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_4: 1430133043
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_10: 1065043592
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_7: -465985466
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_6: 1933013735
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_13: -1948403756
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_1: 531866478
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_5: 1845063263
+      442-4426234_math-book-covers-flying-png-logo-bird-sprite_8: 1940364024
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
