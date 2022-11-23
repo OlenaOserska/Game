@@ -7,15 +7,18 @@ TagManager:
   - Coins
   - Box
   - Slime
+  - Apple
+  - Saw
+  - monster
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - Apple
+  - monster
   - 
   - 
   - 

@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 4969285c9513d434e97e9bd521729995
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 441
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027791cc258879c479121447e173da94
+      internalID: 1315012519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 446
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2c2195132ac942a5380725eb51aad
+      internalID: 444089387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 447
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c909635480dc9c4499575e65dfa08388
+      internalID: -1282115884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 435
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0ec33b4958e5341ada19e15ca6b84f
+      internalID: 157746530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 450
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e158b152f18a9c64b84c3eea44f77d84
+      internalID: -3251150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 353
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686686a1f7290404fbe3824fd7d9e9b1
+      internalID: 1136109223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 351
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59527dd4c64a7614e9a1ffa947e1c05b
+      internalID: 1455585135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 354
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c759e1c7e7a2e14ab4cde4e2946ecb8
+      internalID: 1487719916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 349
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e105d30f4cd024f9d40ac5a85223f1
+      internalID: 347161656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 339
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b781ca4a0dcd5a54ba2195cc4483c26b
+      internalID: -1786919252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 255
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e0c495a7c5b04fb2e918161603860
+      internalID: 371491566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 255
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c752a0201a179f642b769edd133cb8a9
+      internalID: 1004228686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 250
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120bf786dbe11d44a7689f940d075a8
+      internalID: -1078504227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 253
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27292b83d2bbc53468422bceb3101655
+      internalID: 1593405730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 251
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12556132389dc634c80ae684f5db04a9
+      internalID: -2061171507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 138
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3060251b2cde5047b33de79f5d1bb5d
+      internalID: 2105941788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 149
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f1659b0ce8bf143bc4808380c0a949
+      internalID: -214958092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 89
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cea35f3efaee2d48b52d853eeadf228
+      internalID: 1514955752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 146
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e61d1ef1d2c4147a54a939710d9164
+      internalID: 350601520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 143
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672cd9e6644507c4999ee178b52e1e86
+      internalID: 792666390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 49
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb74d6f2d792a843bcbc3924282a8df
+      internalID: -412901244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aca9807b57f1ea49b043e8fdccd9fff
+      internalID: -1915499995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 38
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9535661d095abd419cc91e0e674f6c5
+      internalID: 1323199522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 49
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ae9c1d6429754291dfa66eaa101bd
+      internalID: 1507769525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 49
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2efd8fd630f5cb4ca655be0c8331788
+      internalID: -1352780839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_23: 1323199522
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_7: 1487719916
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_2: -1282115884
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_24: 1507769525
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_3: 157746530
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_9: -1786919252
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_20: 792666390
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_8: 347161656
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_22: -1915499995
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_5: 1136109223
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_11: 371491566
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_10: 1304017458
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_1: 444089387
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_6: 1455585135
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_14: 1593405730
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_18: 1514955752
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_25: -1352780839
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_21: -412901244
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_0: 1315012519
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_15: -2061171507
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_17: -214958092
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_19: 350601520
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_13: -1078504227
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_16: 2105941788
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_4: -3251150
+      rohith-srivatsav-flying-sprite-sheet-full-removebg-preview_12: 1004228686
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
